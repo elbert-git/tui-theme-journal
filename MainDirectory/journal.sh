@@ -14,7 +14,7 @@ main_program () {
 		#create a file with proper name
 		touch ./JournalLogs/${TODAY}.md
 		#cat template into file 
-		cat ./JournalConfigs/CurrentTemplate > ./JournalLogs/${TODAY}.md
+		cat ./JournalConfigs/CurrentTemplate.md > ./JournalLogs/${TODAY}.md
 		#open file in vim
 		vim ./JournalLogs/${TODAY}.md
 	fi
