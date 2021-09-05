@@ -13,3 +13,7 @@ Just what I've written at the top lmao
 ## What's the roadmap for this
 [ ] adding an initial startup process.
 as of now it only works if i set up all the configs manually
+
+[ ] throwbacks
+maybe randomly show a random journal log to you.
+kinda like google photos how they show you youre past/recent memories
